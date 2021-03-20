@@ -4,3 +4,5 @@ List of main elements for my project
 1 - Computer
 2 - Internet
 3 - People
+4 - Phones
+5 - Tablets
